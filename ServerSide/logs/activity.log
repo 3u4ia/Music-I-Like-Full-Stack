@@ -1,0 +1,317 @@
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 4:01:16 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 4:06:49 PM"}
+{"level":"info","message":"just encrypted the passwords lolz","timestamp":"5/2/2024, 4:06:49 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 4:07:50 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 4:08:51 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 4:14:07 PM"}
+{"level":"info","message":"just put the password in the db gang","timestamp":"5/2/2024, 4:14:08 PM"}
+{"level":"info","message":"Record created with id 1","timestamp":"5/2/2024, 4:14:08 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:08:41 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:10:22 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:12:37 PM"}
+{"level":"info","message":"Record created with id 3","timestamp":"5/2/2024, 5:12:37 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:14:00 PM"}
+{"level":"info","message":"Record created with id 4","timestamp":"5/2/2024, 5:14:00 PM"}
+{"level":"error","message":"whostdve does not have an account, you must register.","timestamp":"5/2/2024, 11:36:23 PM"}
+{"level":"error","message":"Leroy does not have an account, you must register.","timestamp":"5/2/2024, 11:36:43 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/2/2024, 11:37:26 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/2/2024, 11:37:26 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/2/2024, 11:42:11 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/2/2024, 11:42:11 PM"}
+{"level":"error","message":"undefined does not have an account, you must register.","timestamp":"5/2/2024, 11:42:22 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:47:13 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:47:25 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:48:55 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:49:05 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:49:14 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:49:58 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:50:09 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:52:25 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 6:53:44 PM"}
+{"level":"info","message":"the userId is","timestamp":"5/3/2024, 7:02:16 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 7:02:16 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/3/2024, 7:02:54 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 7:02:54 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/3/2024, 7:03:33 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 7:03:33 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/3/2024, 7:10:53 PM"}
+{"level":"info","message":"existingUserAccountDetails Leroy","timestamp":"5/3/2024, 7:10:53 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/3/2024, 7:12:17 PM"}
+{"level":"info","message":"existingUserAccountDetails Leroy","timestamp":"5/3/2024, 7:12:17 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/3/2024, 7:12:36 PM"}
+{"level":"info","message":"existingUserAccountDetails Leroy","timestamp":"5/3/2024, 7:12:36 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/3/2024, 7:12:43 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 7:12:43 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/3/2024, 7:13:22 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 7:13:22 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/3/2024, 7:13:53 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/3/2024, 7:13:53 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/3/2024, 7:13:57 PM"}
+{"level":"info","message":"existingUserAccountDetails Leroy","timestamp":"5/3/2024, 7:13:57 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/3/2024, 10:22:15 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 10:22:15 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/3/2024, 10:23:22 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 10:23:22 PM"}
+{"level":"error","message":"le does not have an account, you must register.","timestamp":"5/3/2024, 10:25:55 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/3/2024, 10:27:00 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 10:27:00 PM"}
+{"level":"error","message":"trapFinneseCult does not have an account, you must register.","timestamp":"5/3/2024, 10:28:24 PM"}
+{"level":"error","message":"trapFinneseCult does not have an account, you must register.","timestamp":"5/3/2024, 10:31:45 PM"}
+{"level":"error","message":"trapFinneseCult does not have an account, you must register.","timestamp":"5/3/2024, 10:31:49 PM"}
+{"level":"error","message":"trapFinneseCult does not have an account, you must register.","timestamp":"5/3/2024, 10:32:41 PM"}
+{"level":"error","message":"trapFinneseCult does not have an account, you must register.","timestamp":"5/3/2024, 10:32:52 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/3/2024, 10:33:40 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 10:33:40 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/4/2024, 1:36:37 AM"}
+{"level":"info","message":"Record created with id 5","timestamp":"5/4/2024, 1:36:37 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 1:37:28 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 1:37:28 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 1:37:38 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 1:37:39 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 1:38:06 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 1:38:06 AM"}
+{"level":"error","message":"alek does not have an account, you must register.","timestamp":"5/4/2024, 2:02:44 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:06:11 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 2:06:11 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:09:14 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 2:09:14 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:09:47 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 2:09:47 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:11:39 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 2:11:39 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:11:44 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 2:11:44 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:20:11 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 2:20:12 AM"}
+{"level":"error","message":"ale does not have an account, you must register.","timestamp":"5/4/2024, 2:20:29 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:20:42 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 2:20:42 AM"}
+{"level":"error","message":"laei does not have an account, you must register.","timestamp":"5/4/2024, 2:20:56 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:21:38 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 2:21:38 AM"}
+{"level":"error","message":"fie does not have an account, you must register.","timestamp":"5/4/2024, 2:29:16 AM"}
+{"level":"error","message":"fie does not have an account, you must register.","timestamp":"5/4/2024, 2:31:58 AM"}
+{"level":"error","message":"fie does not have an account, you must register.","timestamp":"5/4/2024, 2:32:06 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:37:45 AM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/4/2024, 2:37:45 AM"}
+{"level":"error","message":"aewflj does not have an account, you must register.","timestamp":"5/4/2024, 2:37:57 AM"}
+{"level":"error","message":"aewflj does not have an account, you must register.","timestamp":"5/4/2024, 2:37:58 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/4/2024, 2:42:48 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 2:42:48 AM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/4/2024, 4:57:04 AM"}
+{"level":"info","message":"existingUserAccountDetails Leroy","timestamp":"5/4/2024, 4:57:04 AM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/4/2024, 2:20:39 PM"}
+{"level":"info","message":"existingUserAccountDetails Leroy","timestamp":"5/4/2024, 2:20:39 PM"}
+{"level":"info","message":"The userId is 1","timestamp":"5/4/2024, 2:36:27 PM"}
+{"level":"info","message":"changing info for account with firstName: Leroy","timestamp":"5/4/2024, 2:36:27 PM"}
+{"level":"info","message":"Account info successfully changed","timestamp":"5/4/2024, 2:36:27 PM"}
+{"level":"error","message":"Leroy does not have an account, you must register.","timestamp":"5/4/2024, 5:33:19 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 5:33:38 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 5:33:38 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 5:35:37 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 5:35:38 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 5:36:01 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 5:36:01 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 5:39:23 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 5:39:23 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 5:39:30 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 5:39:30 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 5:40:22 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 5:40:22 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 5:55:47 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 5:55:47 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 6:01:09 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 6:01:09 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/4/2024, 6:02:16 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 6:02:16 PM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:00:48 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:00:48 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:02:20 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:02:20 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:04:01 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:04:01 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:05:11 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:05:11 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:05:35 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:05:35 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:07:39 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:07:39 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:08:11 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:08:11 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:08:53 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:08:53 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:09:57 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:09:57 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:11:16 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:11:16 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:12:01 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:12:01 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:12:26 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:12:26 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:13:59 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:13:59 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 12:21:59 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:21:59 AM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/5/2024, 12:51:25 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 12:51:25 AM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/5/2024, 1:09:59 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 1:09:59 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 2:04:13 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 2:04:13 AM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 2:28:26 AM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 2:28:26 AM"}
+{"level":"info","message":"the userId is 9","timestamp":"5/5/2024, 2:45:13 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 2:45:13 AM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 2:48:35 AM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 2:48:35 AM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 2:48:42 AM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 2:48:42 AM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 9:56:37 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 9:56:38 PM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 10:14:51 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 10:14:51 PM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 10:22:34 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 10:22:34 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/5/2024, 10:34:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:34:35 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/5/2024, 10:34:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:34:35 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/5/2024, 10:39:39 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:39:39 PM"}
+{"level":"info","message":"the userId is undefined","timestamp":"5/5/2024, 10:39:39 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:39:39 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 10:50:59 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:50:59 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 10:51:03 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:51:03 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 10:51:03 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:51:03 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 10:51:47 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:51:47 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 10:51:53 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:51:53 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 10:51:53 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 10:51:53 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/5/2024, 11:03:08 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 11:03:08 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:03:28 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:03:28 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:03:28 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:03:28 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:03:56 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:03:56 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:03:56 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:03:56 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:04:01 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:04:01 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:05:10 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:05:10 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:05:39 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:05:39 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:05:43 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:05:43 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:05:43 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:05:43 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:06:14 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:06:14 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:06:22 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:06:22 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:07:54 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:07:54 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:07:58 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:07:58 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:07:58 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:07:58 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:08:49 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:08:49 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:08:54 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:08:54 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:08:54 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:08:54 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/5/2024, 11:09:04 PM"}
+{"level":"error","message":"Authentication unsuccessful.","timestamp":"5/5/2024, 11:09:04 PM"}
+{"level":"info","message":"existingUserAccount Jenkins","timestamp":"5/5/2024, 11:09:09 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 11:09:09 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:09:12 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:09:12 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:09:12 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:09:12 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:10:07 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:10:07 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:10:20 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:10:20 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:10:20 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:10:20 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:10:53 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:10:53 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:14:21 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:14:21 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:14:37 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:14:37 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:14:47 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:14:47 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:14:56 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:14:56 PM"}
+{"level":"info","message":"the userId is 1","timestamp":"5/5/2024, 11:15:31 PM"}
+{"level":"info","message":"existingUserAccountDetails Loser","timestamp":"5/5/2024, 11:15:31 PM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 11:47:10 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 11:47:10 PM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 11:47:31 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 11:47:32 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:47:37 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:47:37 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:47:37 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:47:37 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:48:49 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:48:49 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:49:36 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:49:36 PM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 11:50:09 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 11:50:09 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:12 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:12 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:12 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:12 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:26 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:26 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:26 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:26 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:35 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:35 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:41 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:41 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:41 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:41 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:43 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:43 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:50:43 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:50:43 PM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 11:50:57 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 11:50:57 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:51:00 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:51:00 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:51:00 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:51:00 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:51:51 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:51:51 PM"}
+{"level":"info","message":"existingUserAccount Trap","timestamp":"5/5/2024, 11:54:05 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/5/2024, 11:54:05 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:54:11 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:54:11 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:54:11 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:54:11 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:54:35 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:54:35 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:54:57 PM"}
+{"level":"info","message":"No data for that account.","timestamp":"5/5/2024, 11:54:57 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:55:19 PM"}
+{"level":"info","message":"existingUserAccountDetails Hello","timestamp":"5/5/2024, 11:55:19 PM"}
+{"level":"info","message":"The userId is 5","timestamp":"5/5/2024, 11:55:19 PM"}
+{"level":"info","message":"changing info for account with firstName: Hello","timestamp":"5/5/2024, 11:55:19 PM"}
+{"level":"info","message":"Account info successfully changed","timestamp":"5/5/2024, 11:55:19 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:56:51 PM"}
+{"level":"info","message":"existingUserAccountDetails Please","timestamp":"5/5/2024, 11:56:51 PM"}
+{"level":"info","message":"the userId is 5","timestamp":"5/5/2024, 11:56:55 PM"}
+{"level":"info","message":"existingUserAccountDetails Please","timestamp":"5/5/2024, 11:56:55 PM"}

@@ -1,0 +1,23 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://comp.umsl.edu/gitlab/embgvz/project3.git"
+  },
+  "author": "Elroi Belete",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "pg": "^8.11.0",
+    "winston": "^3.9.0"
+  }
+}
